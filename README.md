@@ -1,3 +1,4 @@
+Hi there,
 # React Netease Music
 React Netease Music——一个基于React、TypeScript的高仿网易云mac客户端播放器。
 
